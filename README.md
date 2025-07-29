@@ -1,1 +1,0 @@
-# gp-assist-frontend
